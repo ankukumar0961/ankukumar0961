@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Java, Dsa**
+- 💬 Ask me about **Java, c++, Dsa**
 
 - 📫 How to reach me **ankukr2444777@gmail.com**
 
